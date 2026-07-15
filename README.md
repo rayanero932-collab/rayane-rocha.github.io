@@ -1,9 +1,6 @@
 # 💻 Portfolio de Rayane Rocha
 
-## Technicien Systèmes, Réseaux & Cybersécurité
-
-À la recherche d'une opportunité en alternance.
-
+## Technicien Systèmes, Réseaux & Cybersécurité <br> à la recherche d'une opportunité en alternance.
 
 # 🎯À Propos de Moi
 
