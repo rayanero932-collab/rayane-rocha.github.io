@@ -1,5 +1,5 @@
-| :---: |
-⚠️Ce portfolio n'est pas encore terminé, veuillez ne pas prendre en compte les potentielles erreurs, problèmes techniques que vous rencontrerez ou même certains élément manquant. Merci pour votre compréhension.⚠️
+
+<p align="center"> ## ⚠️Ce portfolio n'est pas encore terminé, veuillez ne pas prendre en compte les potentielles erreurs, problèmes techniques que vous rencontrerez ou même certains élément manquant. Merci pour votre compréhension.⚠️ </p>
 
 
 
