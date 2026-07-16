@@ -1,3 +1,10 @@
+| :---: |
+⚠️Ce portfolio n'est pas encore terminé, veuillez ne pas prendre en compte les potentielles erreurs et problèmes techniques que vous rencontrerez⚠️
+
+
+
+
+
 # 💻 Portfolio de Rayane Rocha
 
 ## Technicien Systèmes, Réseaux & Cybersécurité <br> à la recherche d'une opportunité en alternance.
